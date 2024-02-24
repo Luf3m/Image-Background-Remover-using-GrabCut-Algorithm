@@ -1,4 +1,12 @@
 # Image-Background-Remover-using-GrabCut-Algorithm
+
+To use this code:
+
+Replace 'input_image.jpg' with the path to the image you want to process.
+Specify the desired output path for the resulting image by replacing 'output_image.png'.
+Run the script, and it will apply the GrabCut algorithm to remove the background from the input image and save the result to the specified output path.
+Feel free to adjust the rectangle coordinates (rect) to better fit the foreground object in your image if needed. You can also experiment with different images and fine-tune parameters to achieve optimal results for your specific use case.
+
 The Image Background Remover is a Python script that utilizes the GrabCut algorithm to seamlessly remove the background from digital images. With a simple and intuitive interface, this tool empowers users to effortlessly isolate foreground objects from complex backgrounds, resulting in clean and polished images suitable for various applications.
 Key Features:
 
